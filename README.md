@@ -2,7 +2,7 @@
 
 **Spemar can spam specified number of messages on almost every messaging platform UwU**
 
-# How To Use
+# How To Use on Unix Systems (for Macfags and Linuks)
 To use the Spemar, download the .zip file extract it and change your working directory in to the newly made spemar directory. There run this command :
 ```sh
 chmod +x spam.py
