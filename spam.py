@@ -1,3 +1,4 @@
+#!/bin/python3
 import pyautogui, time
 m = input("Input Spam Message : ")
 i = int(input("Enter spam amount :"))
